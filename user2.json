@@ -1,0 +1,46 @@
+{
+	"responsetime":1386055382001,
+"response":
+[
+{
+	"name":"user_amount_day", 
+	"title":"汇总用户数日曲线", 
+	"show_type":"area",
+	"data_src":" ",
+	"t_dev_kpi_day":" ",
+	
+	"series":[{
+		"kpi_code":"dev_total_user",
+		"yAxis_text":"新增用户数1",
+		"show_type":"line",
+		"data":[[0,32340],[1,32341],[2,32342]]
+		},
+		{
+		"kpi_code":"dev_total_user2",
+		"yAxis_text":"新增用户数1",
+		"show_type":"line",
+		"data":[[0,32340],[1,32341],[2,32342]]
+		}
+		]
+		},
+		{
+	"name":"user_amount_day2", 
+	"title":"汇总用户数日曲线2", 
+	"show_type":"area",
+	"data_src":" ",
+	"t_dev_kpi_day":" ",
+	
+	"series":[{
+		"kpi_code":"dev_total_user",
+		"yAxis_text":"新增用户数1",
+		"show_type":"line",
+		"data":[[0,32],[1,41],[2,342]]
+		}
+		]
+		}
+		
+		]  
+
+
+	}
+
